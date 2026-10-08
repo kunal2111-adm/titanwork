@@ -1,0 +1,19 @@
+We use below command for rollback
+
+
+
+**********************************************************************************
+
+
+
+1. before staging :  git checkout "file name"
+
+2. after staging  :  git restore --staged "file name"
+
+3. After commit :
+	a, with history : git revert Head "commit id after git log --oneline"
+	b. without History : git reset --hard "commit id"
+
+
+
+************************************************************************************
