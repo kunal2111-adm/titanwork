@@ -1,7 +1,0 @@
-Cahnges are made directly from centrol repo
-
-
-Filesystem            Size  Used Avail Use% Mounted on
-C:/Program Files/Git  184G  141G   44G  77% /
-D:                     98G  1.8G   96G   2% /d
-E:                    196G   31G  166G  16% /e
