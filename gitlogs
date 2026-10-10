@@ -1,0 +1,119 @@
+commit 836c29f0c37784775330c4fb176375d5100fc52d
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Fri Oct 9 00:19:06 2026 +0530
+
+    rolback details addedd in ks4
+
+commit bc35428899aada9551077c6b02929e998b1723c5
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Fri Oct 9 00:08:08 2026 +0530
+
+    Revert "added kunal file"
+    
+    This reverts commit 127840fd387a07d7112a5bec6b6e10745561a54d.
+
+commit 127840fd387a07d7112a5bec6b6e10745561a54d
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Fri Oct 9 00:06:54 2026 +0530
+
+    added kunal file
+
+commit 2a5d419a1e497a4b3a92cd17bb9818a2a54a0c60
+Merge: 2a024e6 aaca9c5
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 23:20:22 2026 +0530
+
+    Merge branch 'main' of https://github.com/kunal2111-adm/titanwork
+
+commit 2a024e6de06405416b68efd773a83bf3722a7430
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 23:17:18 2026 +0530
+
+    changes in jupiter1 from sprint2 branch
+
+commit aaca9c564ed662c551a475e0c8bb0801bfe73708
+Merge: b2de190 ed00d26
+Author: kunal2111-adm <shetekunal1@gmail.com>
+Date:   Thu Oct 8 23:12:59 2026 +0530
+
+    Merge pull request #1 from kunal2111-adm/sprint1
+    
+    Update 1moon
+
+commit ed00d26f6145d5e58b89fc9dd91d1ce3299f1821
+Author: kunal2111-adm <shetekunal1@gmail.com>
+Date:   Thu Oct 8 10:20:14 2026 +0530
+
+    Delete gitt/1moon
+
+commit b2de190c2984cac2bad42816ce1c669a4b449669
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 10:13:09 2026 +0530
+
+    conflict
+
+commit 57cf1f44c135a0c9570ab56d8104e0ac99faea5b
+Author: kunal2111-adm <shetekunal1@gmail.com>
+Date:   Thu Oct 8 09:54:55 2026 +0530
+
+    Update 1moon
+
+commit 0e2f2cdd87d0ac203f0a810c7c03bb915430864c
+Author: kunal2111-adm <shetekunal1@gmail.com>
+Date:   Thu Oct 8 09:47:26 2026 +0530
+
+    Update 1moon
+
+commit 04432a5059ed73d1551847ae2356219f536a0936
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 09:43:48 2026 +0530
+
+    commit for sprint1
+
+commit 7c4fc30e0f1dc91fc4bfe52547dca11445d722cd
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 09:35:40 2026 +0530
+
+    files deleted from sprin1 branch
+
+commit ae1ba954a1213dc7fb739b299b42f3b35cf9bcae
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Thu Oct 8 09:15:15 2026 +0530
+
+    Changes in second branch
+
+commit d241abff8fa46a84454312a0e6470109401a3958
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Wed Oct 7 23:59:37 2026 +0530
+
+    nothing
+
+commit 78d0a53ad99ab882271ce49b2a1b6a73a1d44961
+Author: kunal2111-adm <shetekunal1@gmail.com>
+Date:   Wed Oct 7 23:54:14 2026 +0530
+
+    Update moon.2.py
+
+commit 36886a2814a2bd396d8c475fbc3141d9e9fd8618
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Wed Oct 7 23:47:31 2026 +0530
+
+    1st change in gitt
+
+commit 00ec2ca2dacfe55d47fa8f304b614001f063bbd1
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Wed Oct 7 23:31:01 2026 +0530
+
+    make changes in gitt
+
+commit 7355db0846738e424b7c0364af75917843f270f4
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Wed Oct 7 23:23:00 2026 +0530
+
+    added memory details
+
+commit e292c394963ee41cb946c3c1c2914f35003aea66
+Author: Kunal Shete <shetekunal1@gmail.com>
+Date:   Wed Oct 7 09:26:10 2026 +0530
+
+    first commit
